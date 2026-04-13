@@ -1,4 +1,4 @@
-# # 🎙️ End-to-End Voice AI Agent | Local Speech-to-Action System
+#  🎙️ End-to-End Voice AI Agent | Local Speech-to-Action System
 
 ## Overview
 This project is a voice-controlled AI agent that:
