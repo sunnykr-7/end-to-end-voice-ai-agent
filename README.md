@@ -36,11 +36,11 @@ Audio → Whisper (STT) → Intent Detection → Tool Execution → Streamlit UI
 ## 📸 Demo Photo / Video
 
 ### Project Photo / Screenshots
-[https://drive.google.com/drive/u/1/folders/1sAoGqqV5Uj-ySsSX5DtsKmwEvmDJ65eH](https://drive.google.com/drive/u/1/folders/1CxgYGBWeY3A4-PFWL9zcS8olErkllCN3)
+https://drive.google.com/drive/u/1/folders/1dCXZYpz1C-x-ixuOJXnL7nzMbeXjlj2g
 
 
 ### 🎥 Demo Video (Complete Working Project Recorded Video)
-G Drive Link - https://drive.google.com/file/d/1AAZiJEptlmd7ngFi1V4z1fnFk7-j4u90/view?usp=drive_link
+https://drive.google.com/drive/u/1/folders/1twoSjvCeTvPjExt0ONvFmO3uBtu7SgTD
 
 
 
