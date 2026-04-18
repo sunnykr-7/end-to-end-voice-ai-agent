@@ -30,8 +30,8 @@ Audio → Whisper (STT) → Intent Detection → Tool Execution → Streamlit UI
 ## Tech Stack
 - Python
 - Streamlit
-- Whisper (OpenAI)
-- FFmpeg
+- Whisper [OpenAI]
+- FFmpeg 
 
 ## 📸 Demo Photo / Video
 
