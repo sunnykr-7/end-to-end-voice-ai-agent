@@ -5,7 +5,7 @@ This project is a voice-controlled AI agent that:
 - Converts audio to text
 - Detects user intent using LLM
 - Executes local tools
-- Displays results via UI
+- Displays results via UI.
 
 Used local intent classification due to API quota limitations.
 
