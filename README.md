@@ -49,3 +49,7 @@ https://drive.google.com/drive/u/1/folders/1twoSjvCeTvPjExt0ONvFmO3uBtu7SgTD
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+
+THE END
