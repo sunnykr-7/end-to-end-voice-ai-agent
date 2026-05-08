@@ -15,7 +15,7 @@ Voice interfaces are becoming a natural way to interact with AI systems
 This project demonstrates how speech can be converted into real-world actions like file creation, code generation, and summarization using a fully local pipeline.
 
 ## Features
-- Audio input (upload)
+- Audio input (upload).
 - Speech-to-text using Whisper
 - Intent classification using LLM
 - File creation and code generation
