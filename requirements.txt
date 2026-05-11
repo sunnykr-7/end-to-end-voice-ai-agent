@@ -3,4 +3,4 @@ openai-whisper
 torch
 openai
 python
-
+.
