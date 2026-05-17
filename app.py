@@ -5,7 +5,7 @@ from utils.stt import transcribe_audio
 from utils.llm import classify_intent, summarize_text, generate_code
 from utils.tools import create_file, write_code
 
-# Page config..
+# Page config
 st.set_page_config(page_title="Voice AI Agent", layout="centered")
 
 st.title("🎙️ Voice AI Agent")
