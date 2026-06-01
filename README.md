@@ -1,6 +1,6 @@
 #  🎙️ End-to-End Voice AI Agent | Local Speech-to-Action System
 
-## Overview
+### Overview
 This project is a voice-controlled AI agent that:
 - Converts audio to text
 - Detects user intent using LLM
@@ -9,12 +9,12 @@ This project is a voice-controlled AI agent that:
 
 Used local intent classification due to API quota limitations.
 
-##  Why this project?
+###  Why this project?
 
 Voice interfaces are becoming a natural way to interact with AI systems 
 This project demonstrates how speech can be converted into real-world actions like file creation, code generation, and summarization using a fully local pipeline.
 
-## Features
+### Features
 - Audio input (upload).
 - Speech-to-text using Whisper
 - Intent classification using LLM
@@ -22,18 +22,18 @@ This project demonstrates how speech can be converted into real-world actions li
 - Text summarization
 - Streamlit UI
 
-## Architecture
+### Architecture
 
 Audio → Whisper (STT) → Intent Detection → Tool Execution → Streamlit UI
 
 
-## Tech Stack
+### Tech Stack
 - Python
 - Streamlit
 - Whisper [OpenAI]
 - FFmpeg 
 
-## 📸 Demo Photo / Video
+### 📸 Demo Photo / Video
 
 ### Project Photo / Screenshots
 https://drive.google.com/drive/u/1/folders/1dCXZYpz1C-x-ixuOJXnL7nzMbeXjlj2g
