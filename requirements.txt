@@ -1,5 +1,12 @@
+requirement mentioned below : - 
+
 streamlit
 openai-whisper
 torch
 openai
 python
+
+
+
+
+
