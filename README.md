@@ -1,6 +1,6 @@
 #  🎙️ End-to-End Voice AI Agent | Local Speech-to-Action System
 
-### Overview  ---------------------------------------------------------
+### Overview  ------------------------------------------
 
 This project is a voice-controlled AI agent that:
 - Converts audio to text
