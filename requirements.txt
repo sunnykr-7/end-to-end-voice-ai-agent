@@ -4,9 +4,7 @@ streamlit
 openai-whisper
 torch
 openai
-python .....
-
-
+python 
 
 
 
