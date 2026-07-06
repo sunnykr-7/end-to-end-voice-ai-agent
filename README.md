@@ -10,7 +10,7 @@ This project is a voice-controlled AI agent that:
 
 Used local intent classification due to API quota limitations.
 
-###  Why this project? ------------------------------
+###  Why this project? 
 
 Voice interfaces are becoming a natural way to interact with AI systems 
 This project demonstrates how speech can be converted into real-world actions like file creation, code generation, and summarization using a fully local pipeline.
