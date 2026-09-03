@@ -52,10 +52,7 @@ https://drive.google.com/drive/u/1/folders/1twoSjvCeTvPjExt0ONvFmO3uBtu7SgTD
 
 
 
------------------------------- THE END ------------------------------
-
-
-
+------------------------------ THE END -----------------------
 
 
 pip install -r requirements.txt
